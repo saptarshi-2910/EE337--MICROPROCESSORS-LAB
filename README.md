@@ -1,2 +1,6 @@
-###EE 337 \\
-##ALL THE LAB CODES ARE GIVEN HERE
+# EE 337 Lab Codes
+
+This repository contains all lab codes for **EE 337**
+
+---
+
